@@ -11,7 +11,8 @@ int main(void)
     // Swapping
     int temp = x;
     x = y;
- 
+    y = temp;
+
 
     print("x is now %i\n", is x);
     print("y is now %i\n", is y);
