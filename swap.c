@@ -11,6 +11,7 @@ int main(void)
     // Swapping
     int temp = x;
     x = y;
+    y = temp;
 
 
 
